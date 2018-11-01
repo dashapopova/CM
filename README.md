@@ -6,9 +6,7 @@
 
 Пт, 18.10 -- 21.00, ауд. 506
 
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, and myself. 
-
-To join: https://piazza.com/hse.ru/winter2018/ling107
+Присоединиться к внеклассному обсуждению материала: https://piazza.com/hse.ru/winter2018/ling107
 
 ### Преподаватель
 * Даша Попова ([почта](mailto:daschapopowa@gmail.com))
