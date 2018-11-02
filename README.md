@@ -32,7 +32,8 @@
     <td></td>
     <td></td>
     <td></td>
-    <td>[](http://iknigi.net/avtor-mihail-kopotev/105402-vvedenie-v-korpusnuyu-lingvistiku-mihail-kopotev/read/page-1.html)</td>
+    <td>Копотев 2014: 
+      http://iknigi.net/avtor-mihail-kopotev/105402-vvedenie-v-korpusnuyu-lingvistiku-mihail-kopotev/read/page-1.html</td>
   </tr>
     <tr>
     <td>09.11</td>
