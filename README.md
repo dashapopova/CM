@@ -66,7 +66,7 @@
     <td>Кластеризация и классификация</td>
     <td></td>
     <td>дз4</td>
-    <td>7.12 11.00</td>
+    <td>07.12 11.00</td>
     <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 5
     </td>
   </tr>
