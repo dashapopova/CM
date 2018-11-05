@@ -32,7 +32,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><a href="http://iknigi.net/avtor-mihail-kopotev/105402-vvedenie-v-korpusnuyu-lingvistiku-mihail-kopotev/read/page-1.html">Копотев 2014</a> Главы 1-13
+    <td><a href="http://iknigi.net/avtor-mihail-kopotev/105402-vvedenie-v-korpusnuyu-lingvistiku-mihail-kopotev/read/page-1.html">Копотев 2014</a> <br> Главы 1-13
       </td>
   </tr>
     <tr>
@@ -41,7 +41,7 @@
     <td>тест</td>
     <td>дз1</td>
     <td>16.11 11.00</td>
-    <td> <a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> Главы 1-2</td>
+    <td> <a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Главы 1-2</td>
   </tr>
   <tr>
     <td>16.11.</td>
