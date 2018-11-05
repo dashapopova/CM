@@ -49,7 +49,7 @@
     <td></td>
     <td>дз2</td>
     <td>23.11 11.00</td>
-    <td>
+    <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 3
     </td>
   </tr>
     <tr>
@@ -58,7 +58,7 @@
     <td></td>  
     <td>дз3</td>
     <td>30.11 11.00</td>
-    <td> 
+    <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 4 
       </td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@
     <td></td>
     <td>дз4</td>
     <td>7.12 11.00</td>
-    <td>
+    <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 5
     </td>
   </tr>
     <tr>
@@ -76,7 +76,7 @@
     <td>тест</td>  
     <td></td>
     <td></td>
-    <td> 
+    <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 6
       </td>
   </tr>
   <tr>
@@ -85,14 +85,14 @@
     <td>тест</td>
     <td></td>
     <td></td>
-    <td>
+    <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 7
     </td>
   </tr>
     <tr>
     <td>21.12</td>
     <td>Финальные проекты</td>
     <td></td>
-    <td>Сдача финальных проектов</td>  
+    <td>Презентация финальных проектов</td>  
     <td></td>
     <td> 
       </td>
