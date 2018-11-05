@@ -41,8 +41,7 @@
     <td>тест</td>
     <td>дз1</td>
     <td>16.11 11.00</td>
-    <td> 
-      </td>
+    <td> <a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a></td>
   </tr>
   <tr>
     <td>16.11.</td>
