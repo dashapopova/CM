@@ -39,7 +39,7 @@
     <td>09.11</td>
     <td>Представление данных</td>
     <td><a href="https://goo.gl/forms/cutiEzdhy6n9OXAz2">тест</a></td>
-    <td>дз1: отправить мне на почту конспект основных идей глав 1-2 из <a href="http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf"></td>
+    <td>дз1: отправить мне на почту конспект основных идей глав 1-2 из <a href="http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf">"How to Lie with Statistics"</a></td>
     <td>16.11 11.00</td>
     <td> <a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Главы 1-2</td>
   </tr>
