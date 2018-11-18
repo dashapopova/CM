@@ -37,7 +37,7 @@
   </tr>
     <tr>
     <td>09.11</td>
-    <td>Представление данных</td>
+    <td><a href="./W2_Data Exploration.pptx">Представление данных</a></td>
     <td><a href="https://goo.gl/forms/cutiEzdhy6n9OXAz2">тест</a></td>
     <td>дз1: отправить мне на почту конспект основных идей глав 1-2 из <a href="http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf">"How to Lie with Statistics"</a></td>
     <td>16.11 11.00</td>
@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td>16.11.</td>
-    <td>Статистические распределения</td>
+    <td><a href="./W3_Distributions.pptx">Статистические распределения</a></td>
     <td></td>
     <td>дз2</td>
     <td>25.11 21.00</td>
