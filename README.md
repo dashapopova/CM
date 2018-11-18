@@ -48,7 +48,7 @@
     <td>Статистические распределения</td>
     <td></td>
     <td>дз2</td>
-    <td>23.11 11.00</td>
+    <td>25.11 21.00</td>
     <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 3
     </td>
   </tr>
