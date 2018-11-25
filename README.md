@@ -56,8 +56,8 @@
     <td>23.11</td>
     <td>Базовые статистические методы</td>
     <td></td>  
-    <td>дз3</td>
-    <td>30.11 11.00</td>
+    <td></td>
+    <td></td>
     <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 4 
       </td>
   </tr>
@@ -65,8 +65,8 @@
     <td>30.11.</td>
     <td>Кластеризация и классификация</td>
     <td></td>
-    <td>дз4</td>
-    <td>07.12 11.00</td>
+    <td>дз3</td>
+    <td>09.12 21.00</td>
     <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 5
     </td>
   </tr>
