@@ -65,8 +65,8 @@
     <td>30.11.</td>
     <td>Кластеризация и классификация</td>
     <td></td>
-    <td>дз3</td>
-    <td>07.12 18.00</td>
+    <td><a href="./hw3.pdf">дз3</a></td>
+    <td>09.12 21.00</td>
     <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 5
     </td>
   </tr>
@@ -75,7 +75,7 @@
     <td>Регрессионные методы</td>
     <td>тест</td>  
     <td>дз4</td>
-    <td>14.12 18.00</td>
+    <td>16.12 21.00</td>
     <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 6
       </td>
   </tr>
@@ -86,6 +86,15 @@
     <td></td>
     <td></td>
     <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 7
+    </td>
+  </tr>
+  <tr>
+    <td>15.12.</td>
+    <td>Обзор методов. Консультация</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
     </td>
   </tr>
     <tr>
