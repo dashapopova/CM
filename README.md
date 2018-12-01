@@ -73,7 +73,7 @@
     <tr>
     <td>07.12</td>
     <td>Регрессионные методы</td>
-    <td>тест</td>  
+    <td></td>  
     <td>дз4</td>
     <td>16.12 21.00</td>
     <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 6
