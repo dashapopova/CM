@@ -102,9 +102,9 @@
     <td>Финальные проекты</td>
     <td></td>
     <td>Презентация и сдача финальных проектов</td>  
-    <td><a href="./FinalProjectGuidelines.pdf">Инструкция по выполнению проектов</a></td>
+    <td>21.12 18.00</td>
     <td> 
-      </td>
+      <a href="./FinalProjectGuidelines.pdf">Инструкция по выполнению проектов</a></td>
   </tr> 
 </table>
 
